@@ -35,3 +35,12 @@ Method Endpoint Description
 - Pagination & search filters
 - Validation for input fields
 - Deploy on cloud (AWS / Render / Heroku)
+
+### Screenshots
+- Add Staff
+  
+![image alt](https://github.com/PratikPDahale/Staff-Management-System/blob/5bd81718d62dc66133c49cba17a54b7cb04f08fd/screenshots/add%20Staff.png)
+
+- View Staff
+
+![image alt](https://github.com/PratikPDahale/Staff-Management-System/blob/5bd81718d62dc66133c49cba17a54b7cb04f08fd/screenshots/view%20staff.png)
